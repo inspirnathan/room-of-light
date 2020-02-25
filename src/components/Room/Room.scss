@@ -1,6 +1,11 @@
 .Room {
   display: flex;
-  border: 5px solid limegreen;
+  border: 5px solid purple;
   width: 100%;
   height: 80vh;
+
+  .roomImg {
+    height: 100%;
+    width: 100%;
+  }
 }
